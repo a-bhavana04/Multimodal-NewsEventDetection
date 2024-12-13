@@ -88,7 +88,7 @@ This project develops a **multi-modal deep learning system** to detect events fr
 
 ## Visualization
 - **Word Cloud**:
-  ![Word Cloud Example](images/word_cloud.jpg)
+  ![Word Cloud Example](images/wordcloud.jpg)
 - **Data Augmentation**:
   ![Text Example](images/text_augmentation.jpg)
   ![Image Example](images/image_augmentation.jpg)
