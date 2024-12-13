@@ -69,21 +69,6 @@ This project develops a **multi-modal deep learning system** to detect events fr
   - Stable Diffusion
   - Matplotlib and Seaborn for visualizations
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/multimodal-event-detection.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run preprocessing and model training scripts:
-   ```bash
-   python preprocess.py
-   python train_model.py
-   ```
-
 ---
 
 ## Visualization
