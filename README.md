@@ -1,4 +1,4 @@
-# Multi-Modal Event Detection System
+# Multi-Modal News Event Detection System
 
 ## Overview
 This project develops a **multi-modal deep learning system** to detect events from news articles and associated images. Using text and image features, the system identifies and classifies events, leveraging generative AI techniques to augment datasets for improved performance. The project integrates **GPT-2** for text generation and **Stable Diffusion** for image synthesis, enhancing the robustness and accuracy of event detection.
