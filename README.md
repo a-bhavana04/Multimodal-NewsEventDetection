@@ -88,8 +88,7 @@ This project develops a **multi-modal deep learning system** to detect events fr
 
 ## Visualization
 - **Word Cloud**:
-  Visualizes key terms for each event type.
-  ![Word Cloud Example](images/word_cloud.png)
-- **Confusion Matrix**:
-  Highlights classification accuracy and misclassifications.
-  ![Confusion Matrix Example](images/confusion_matrix.png)
+  ![Word Cloud Example](images/word_cloud.jpg)
+- **Data Augmentation**:
+  ![Text Example](images/text_augmentation.jpg)
+  ![Image Example](images/image_augmentation.jpg)
