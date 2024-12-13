@@ -53,7 +53,7 @@ This project develops a **multi-modal deep learning system** to detect events fr
 ## Results
 - **Performance**:
   - Improved detection rates for rare events due to augmented data.
-  - Accuracy for synthetic image classification: **79%**.
+  - Accuracy for synthetic image classification: **89%**.
 - **Visualization**:
   - Confusion matrices highlighted areas for improvement.
   - Word clouds visualized prominent terms for events.
